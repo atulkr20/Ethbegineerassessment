@@ -64,7 +64,7 @@ When the code will compile, you will have to deploy the contract by clicking on 
 
 Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it. By clicking on "nameOfToken", you can retrieve "SRIJAN" string. By clicking on "symbolOfToken", you can retrieve "SK" string.
+Once the contract is deployed, you can interact with it. By clicking on "nameOfToken", you can retrieve "ATUL" string. By clicking on "symbolOfToken", you can retrieve "AJ" string.
 
 Click on mint dropdown icon and fill address and value, and click on transact icon. Once clicked, click on "totalSupply" to print the minted tokens.
 
